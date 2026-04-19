@@ -8,6 +8,7 @@ To classify whether a person is at high risk of chronic disease based on indicat
 ## Dataset
 - Source: U.S. Chronic Disease Indicators (data.gov)
 - Contains health-related indicators such as gender, location, and disease values.
+- https://catalog.data.gov/dataset/u-s-chronic-disease-indicators
   https://drive.google.com/file/d/1rSFo6b2UmfVrEdRD--JNBlssGbO8-QMa/view?usp=sharing
 
 ## Machine Learning Models
